@@ -1,6 +1,6 @@
 #! python3
 
-## Prediciting Google stock price for next 30 days using Linear regression and plotting our predictions
+## Prediciting Google stock price for next 30 days using Linear regression and plotting our predictions using scikit learn
 import pandas as pd #panda for algebraic operations
 import quandl, math #quandl for fetching data
 import numpy as np
